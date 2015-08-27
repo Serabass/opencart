@@ -1,0 +1,16 @@
+{
+  "name": "opencart",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Serabass/opencart",
+  "authors": [
+    "Serabass <serabass565@gmail.com>"
+  ],
+  "keywords": [
+    "opencart"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular": "~1.4.4"
+  }
+}
