@@ -1,12 +1,14 @@
 var config = {
-  "ftp": {
-    "host": "example.com",
-    "post": 21,
-    "username": "dev",
-    "password": "pass",
-    "rootPath": "/"
+  ftp: {
+    host: "example.com",
+    username: "dev",
+    password: "pass",
+    remotePath: "/"
   },
-  "paths": {
-    "upload": "./upload"
+  paths: {
+    upload: "./upload"
   }
-}
+};
+
+
+module.exports = config;
