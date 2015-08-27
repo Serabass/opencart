@@ -1,5 +1,7 @@
 node_modules
-
+config.js
+upload/bower_components
+install
 # Config and Htaccess Files
 /upload/.htaccess
 /upload/config.php
