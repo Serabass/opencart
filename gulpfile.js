@@ -5,6 +5,7 @@ var UPLOAD = './upload';
 var SRC = path.join(UPLOAD, '_src');
 var DEST = path.join(UPLOAD);
 var THEME = 'default';
+var config = require('./config.json');
 
 var paths = {
     admin: path.join(UPLOAD, 'admin'),
