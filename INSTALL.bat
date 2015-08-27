@@ -1,1 +1,2 @@
-cp config.sample.json config.json
+npm install
+copy config.sample.js config.js
