@@ -1,0 +1,15 @@
+{
+  "author": "Serabass",
+  "name": "opencart-boilerplate",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Serabass/opencart",
+  "bugs": "https://github.com/Serabass/opencart/issues",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Serabass/opencart.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+	
+  }
+}
