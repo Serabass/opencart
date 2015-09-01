@@ -3,6 +3,9 @@ config.js
 dest
 dest/bower_components
 install
+
+/sandbox.js
+
 # Config and Htaccess Files
 /upload/.htaccess
 /upload/config.php

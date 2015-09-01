@@ -6,7 +6,8 @@ var config = {
     remotePath: "/"
   },
   paths: {
-    upload: "./upload"
+    src: "src",
+    desc: "upload"
   }
 };
 
